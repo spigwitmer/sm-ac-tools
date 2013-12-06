@@ -1,0 +1,24 @@
+aeskey.o: aeskey.c aesopt.h aes.h \
+  /usr/lib/gcc/i486-linux-gnu/4.1.2/include/limits.h \
+  /usr/lib/gcc/i486-linux-gnu/4.1.2/include/syslimits.h \
+  /usr/include/limits.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/gnu/stubs.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/endian.h \
+  /usr/include/bits/endian.h aestab.h
+aeskey.c :
+aesopt.h :
+aes.h :
+/usr/lib/gcc/i486-linux-gnu/4.1.2/include/limits.h :
+/usr/lib/gcc/i486-linux-gnu/4.1.2/include/syslimits.h :
+/usr/include/limits.h :
+/usr/include/features.h :
+/usr/include/sys/cdefs.h :
+/usr/include/gnu/stubs.h :
+/usr/include/bits/posix1_lim.h :
+/usr/include/bits/local_lim.h :
+/usr/include/linux/limits.h :
+/usr/include/bits/posix2_lim.h :
+/usr/include/endian.h :
+/usr/include/bits/endian.h :
+aestab.h :
